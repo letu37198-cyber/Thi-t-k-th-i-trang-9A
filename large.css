@@ -1,0 +1,14 @@
+@media (min-width: 1024px) {
+
+    .container {
+        max-width: 1200px;
+    }
+
+    .slide {
+        padding: 20px;
+    }
+
+    img {
+        max-width: 600px;
+    }
+}
