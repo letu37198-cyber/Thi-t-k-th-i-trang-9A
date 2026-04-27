@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #f4f4f4;
+    text-align: center;
+}
+
+h1 {
+    background: #8b6b4a;
+    color: white;
+    padding: 20px;
+}
+
+.container {
+    padding: 10px;
+}
+
+.slide {
+    background: white;
+    margin: 15px 0;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+  }
